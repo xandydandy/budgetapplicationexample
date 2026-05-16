@@ -2,6 +2,8 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+The purpose of this project is to showcase my skills as a programmer. It has some basic functions including but not limited to; log in information store, data storage, javascript, mathmatical operation and more!
+
 ## Available Scripts
 
 In the project directory, you can run:
